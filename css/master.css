@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+        font-family: logo;
+        src: url(../font/BerkshireSwash-Regular.ttf);
+}
+
+@font-face {
+        font-family: menu;
+        src: url(../font/PlaypenSans-VariableFont_wght.ttf);
+}
+
+.myphoto>img {
+        border-radius: 10%;
+}
+
+
+.pagefour>div>figure:hover::after {
+        opacity: 1;
+}
+
+body {
+        background: linear-gradient(to right, black 419px, #1e1e1d 1px);
+        background-size: 420px 100%;
+        background-color: rgb(215, 121, 137);
+}
