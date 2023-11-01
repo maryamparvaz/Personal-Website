@@ -1,7 +1,7 @@
 # Personal-Website
 ![screencapture-maryamparvaz-github-io-men-shop-2023-09-30-09_51_06](https://github.com/maryamparvaz/men-shop/assets/124708513/802c29eb-e879-441d-ac05-e549124c2d8e)
 
-- [Demo Project]( https://maryamparvaz.github.io/men-shop/)
+- [Demo Project](https://maryamparvaz.github.io/Personal-Website/)
 
 - Developed by Maryam Parvaz 🙎
 
